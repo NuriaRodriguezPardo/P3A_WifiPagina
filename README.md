@@ -261,7 +261,7 @@ El bucle loop() se encarga de manejar las solicitudes de los clientes. Tenemos e
     </body>
 ```
 **Ejemplo:**<br>
-<img src="Paginaa.png" width="1000" height="550">
+<img src="Paginaa.PNG" width="1000" height="550">
 
 **Salida de la terminal:**<br>
 ```
